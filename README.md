@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanishq Agarwal</h1>
 <h3 align="center">Experienced software engineer | Passionate about innovation and delivering exceptional results | Seeking impactful opportunities to drive technological advancements | Let's build something extraordinary!s</h3>
-![](https://komarev.com/ghpvc/?username=tanishq5414&color=green)
 - 🔭 I’m currently working on [MLRCC](https://github.com/tanishq5414/MLRCC)
 
 - 🌱 I’m currently learning **Next.JS**
