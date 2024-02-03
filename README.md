@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishq5414" alt="tanishq5414" /></a> </p>
 
-- 🔭 I’m currently working on [MLRCC](https://github.com/tanishq5414/MLRCC)
+- 🔭 I’m currently working on Dark Pattern Identification
 
 - 🌱 I’m currently learning **Next.JS**
 
