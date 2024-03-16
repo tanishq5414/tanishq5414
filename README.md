@@ -1,25 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tanishq Agarwal</h1>
-<h3 align="center">Software Engineer | Passionate about innovation and delivering exceptional results | Seeking impactful opportunities to drive technological advancements | Let's build something extraordinary!s</h3>
+<h3 align="center">Software Engineer @MittArv | Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq5414&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq5414" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishq5414" alt="tanishq5414" /></a> </p>
 
-- 🔭 I’m currently working on Dark Pattern Identification
-
-- 🌱 I’m currently learning **Next.JS**
-
-- 👯 I’m looking to collaborate on [Companion](https://github.com/tanishq5414/Companion)
-
 - 👨‍💻 All of my projects are available at [tanishq.tech](tanishq.tech)
 
-- 💬 Ask me about **Flutter, Dart, Python, Node.JS, React, Firebase, Supabase, AWS**
-
 - 📫 How to reach me **contact@tanishq.tech**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SiD-gXfYwjmYma8R0zq0BnSSVYmQYBpe/view?usp=drive_link](https://drive.google.com/file/d/1SiD-gXfYwjmYma8R0zq0BnSSVYmQYBpe/view?usp=drive_link)
-
-- ⚡ Fun fact **I craft lines of code, weaving dreams into reality.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
