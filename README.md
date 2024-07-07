@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/tvnishq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tvnishq" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanishqagarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishqagarwal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanishq5414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanishq5414" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/PsxgKBJxn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/PsxgKBJxn7" height="30" width="40" /></a>
 </p>
 
