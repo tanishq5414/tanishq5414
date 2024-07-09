@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq5414&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq5414" /> </p>
 
-- 👨‍💻 All of my projects are available at [tanishq.tech](tanishq.tech)
+- 👨‍💻 All of my projects are available at [tanishq.tech](https://tanishq.tech)
 
 - 📫 How to reach me **contact@tanishq.tech**
 
