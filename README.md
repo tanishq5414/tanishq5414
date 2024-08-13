@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanishq Agarwal</h1>
 <h3 align="center">Software Engineer @MittArv | 5x Hackathon Winner | Building Applications</h3>
-[![wakatime](https://wakatime.com/badge/user/43be33a2-ace4-406d-b35b-35071d4f486e.svg)](https://wakatime.com/@43be33a2-ace4-406d-b35b-35071d4f486e)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq5414&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq5414" /> </p>
+<p align="left"> <img src="https://wakatime.com/badge/user/43be33a2-ace4-406d-b35b-35071d4f486e.svg" alt="tanishq5414" /> </p>
 
 - 👨‍💻 All of my projects are available at [tanishq.tech](https://tanishq.tech)
 
