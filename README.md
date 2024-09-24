@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq5414&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq5414" /> </p>
 <p align="left"> <img src="https://wakatime.com/badge/user/43be33a2-ace4-406d-b35b-35071d4f486e.svg" alt="tanishq5414" /> </p>
 
-- 👨‍💻 All of my projects are available at [tanishq.tech](https://tanishq.tech)
+- 👨‍💻 All of my projects are available at [tanishq-tech.vercel.app](https://tanishq-tech.vercel.app/)
 
 - 📫 How to reach me **contact@tanishq.tech**
 
