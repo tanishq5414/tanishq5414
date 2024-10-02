@@ -8,7 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [tanishq-tech.vercel.app](https://tanishq-tech.vercel.app/)
 
-- 📫 How to reach me **contact@tanishq.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
