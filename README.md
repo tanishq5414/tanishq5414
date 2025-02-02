@@ -6,8 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq5414&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq5414" /> </p>
 <p align="left"> <img src="https://wakatime.com/badge/user/43be33a2-ace4-406d-b35b-35071d4f486e.svg" alt="tanishq5414" /> </p>
 
-- 👨‍💻 Visit me on tvnishq-com.vercel.app
-
+- 👨‍💻 Visit me on a href="https://tagarwal.pro/" target="blank">tagarwal.pro</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
