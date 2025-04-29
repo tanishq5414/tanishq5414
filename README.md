@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanishq Agarwal</h1>
-<h3 align="center">Software Engineer | 5x Hackathon Winner | Building Applications</h3>
+<h3 align="center"> Engineer @Amazon | 5x Hackathon Winner | Building Applications</h3>
 
 
 
